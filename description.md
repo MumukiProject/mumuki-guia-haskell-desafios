@@ -1,1 +1,1 @@
-Desafíos Gobstones
+Desafíos Haskell
